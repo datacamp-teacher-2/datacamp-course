@@ -143,3 +143,12 @@ test <- read.csv("http://s3.amazonaws.com/assets.datacamp.com/production/course_
 ```{r}
 
 ```
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:22440b1845
+## Show slides
+
+*** =video_link
+//player.vimeo.com/video/154783078
+
+*** =projector_key
+7debdc07ee5f5139c4e028f0d6726309
